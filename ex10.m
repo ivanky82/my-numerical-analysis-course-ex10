@@ -19,7 +19,7 @@
 % PART 1: MENDEFINISIKAN PERSAMAAN DIFERENSIAL YANG AKAN DICARI SOLUSINYA
 % Buatlah sebuah fungsi yang diberi nama myode.m yang isinya adalah fungsi
 % yang akan dicari integralnya.
-% Bualah kode yang merepresentasikan fungsi dy/dt = f(y) = -y^2+3y
+% Bualah kode yang merepresentasikan fungsi dy/dt = f(y) = -y^3+3y
 
 clc;
 clear;
